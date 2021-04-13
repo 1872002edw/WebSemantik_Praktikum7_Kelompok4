@@ -1,0 +1,73 @@
+{
+    "mahasiswa":[
+    {
+    "nrp": "370143467-0",
+    "nama": "Aime",
+    "foto": "http://dummyimage.com/242x100.png/cc0000/ffffff",
+    "prodi": "Cost Accountant",
+    "fakultas": "Training",
+    "universitas": "Ghana Institute of Management and Public Administration (GIMPA)"
+  }, {
+    "nrp": "232115143-9",
+    "nama": "Marissa",
+    "foto": "http://dummyimage.com/122x100.png/cc0000/ffffff",
+    "prodi": "Assistant Media Planner",
+    "fakultas": "Support",
+    "universitas": "Penza State University"
+  }, {
+    "nrp": "468426890-X",
+    "nama": "Red",
+    "foto": "http://dummyimage.com/202x100.png/5fa2dd/ffffff",
+    "prodi": "Administrative Officer",
+    "fakultas": "Legal",
+    "universitas": "Virginia Military Institute"
+  }, {
+    "nrp": "647780128-0",
+    "nama": "Cristian",
+    "foto": "http://dummyimage.com/187x100.png/5fa2dd/ffffff",
+    "prodi": "General Manager",
+    "fakultas": "Research and Development",
+    "universitas": "Delaware Valley College"
+  }, {
+    "nrp": "063074390-8",
+    "nama": "Lillian",
+    "foto": "http://dummyimage.com/232x100.png/ff4444/ffffff",
+    "prodi": "Systems Administrator IV",
+    "fakultas": "Product Management",
+    "universitas": "Université François Rabelais de Tours"
+  }, {
+    "nrp": "074899498-X",
+    "nama": "Ursulina",
+    "foto": "http://dummyimage.com/107x100.png/ff4444/ffffff",
+    "prodi": "VP Product Management",
+    "fakultas": "Marketing",
+    "universitas": "Beder University"
+  }, {
+    "nrp": "930019700-2",
+    "nama": "Bondie",
+    "foto": "http://dummyimage.com/111x100.png/cc0000/ffffff",
+    "prodi": "Marketing Manager",
+    "fakultas": "Product Management",
+    "universitas": "Instituto Superior de Línguas e Administração"
+  }, {
+    "nrp": "809051654-8",
+    "nama": "Janeva",
+    "foto": "http://dummyimage.com/120x100.png/cc0000/ffffff",
+    "prodi": "Budget/Accounting Analyst IV",
+    "fakultas": "Product Management",
+    "universitas": "Meikai University"
+  }, {
+    "nrp": "336898647-3",
+    "nama": "Ogdan",
+    "foto": "http://dummyimage.com/154x100.png/cc0000/ffffff",
+    "prodi": "Nurse Practicioner",
+    "fakultas": "Business Development",
+    "universitas": "Connecticut College"
+  }, {
+    "nrp": "808492256-4",
+    "nama": "Silvana",
+    "foto": "http://dummyimage.com/225x100.png/cc0000/ffffff",
+    "prodi": "Programmer Analyst III",
+    "fakultas": "Business Development",
+    "universitas": "Kyushu Dental College"
+  }]}

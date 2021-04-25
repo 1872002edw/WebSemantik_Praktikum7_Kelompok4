@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<mahasiswa>
+  <nrp>1232010</nrp>
+  <nama>John Doe</nama>
+  <foto>1232010.jpg</foto>
+  <prodi>Teknik </prodi>
+  <fakultas>Teknik Elektro</fakultas>
+  <universitas>Universitas Indonesia</universitas>
+</mahasiswa>
+<mahasiswa>
+  <nrp>1872002</nrp>
+  <nama>Edward</nama>
+  <foto>1872002.jpg</foto>
+  <prodi>Teknik Informatika</prodi>
+  <fakultas>Teknologi Informasi</fakultas>
+  <universitas>Universitas Kristen Maranatha</universitas>
+</mahasiswa>
+<mahasiswa>
+  <nrp>1872027</nrp>
+  <nama>Anthony</nama>
+  <foto>1872027.jpg</foto>
+  <prodi>Teknik Informatika</prodi>
+  <fakultas>Teknologi Informasi</fakultas>
+  <universitas>Universitas Kristen Maranatha</universitas>
+</mahasiswa>
+<mahasiswa>
+  <nrp>1872051</nrp>
+  <nama>Edwin</nama>
+  <foto>1872051.jpg</foto>
+  <prodi>Teknik Informatika</prodi>
+  <fakultas>Teknologi Informasi</fakultas>
+  <universitas>Universitas Kristen Maranatha</universitas>
+</mahasiswa>

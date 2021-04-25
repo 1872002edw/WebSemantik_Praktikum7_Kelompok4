@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Mahasiswa</title>
+    <link>http://www.praktikum.com/maranatha</link>
+    <description>Isi detail data mahasiswa</description>
+    <item>
+      <nrp>1232010</nrp>
+      <nama>John Doe</nama>
+      <foto>1232010.jpg</foto>
+      <prodi>Teknik </prodi>
+      <fakultas>Teknik Elektro</fakultas>
+      <universitas>Universitas Indonesia</universitas>
+    </item>
+    <item>
+      <nrp>170000</nrp>
+      <nama>Tes</nama>
+      <foto>170000.jpg</foto>
+      <prodi>Kedokteran</prodi>
+      <fakultas>Kedokteran</fakultas>
+      <universitas>Pajajaran</universitas>
+    </item>
+    <item>
+      <nrp>1872000</nrp>
+      <nama>Black Widow</nama>
+      <foto>1872000.jpg</foto>
+      <prodi>Kedokteran</prodi>
+      <fakultas>Kedokteran</fakultas>
+      <universitas>Pajajaran</universitas>
+    </item>
+    <item>
+      <nrp>1872002</nrp>
+      <nama>Edward</nama>
+      <foto>1872002.jpg</foto>
+      <prodi>Teknik Informatika</prodi>
+      <fakultas>Teknologi Informasi</fakultas>
+      <universitas>Universitas Kristen Maranatha</universitas>
+    </item>
+    <item>
+      <nrp>1872019</nrp>
+      <nama>Ryan</nama>
+      <foto>1872019.jpg</foto>
+      <prodi>Teknik Informatika</prodi>
+      <fakultas>Teknologi Informasi</fakultas>
+      <universitas>Universitas Parahyangan</universitas>
+    </item>
+    <item>
+      <nrp>1872027</nrp>
+      <nama>Anthony</nama>
+      <foto>1872027.jpg</foto>
+      <prodi>Teknik Informatika</prodi>
+      <fakultas>Teknologi Informasi</fakultas>
+      <universitas>Universitas Kristen Maranatha</universitas>
+    </item>
+    <item>
+      <nrp>1872051</nrp>
+      <nama>Edwin</nama>
+      <foto>1872051.jpg</foto>
+      <prodi>Teknik Informatika</prodi>
+      <fakultas>Teknologi Informasi</fakultas>
+      <universitas>Universitas Kristen Maranatha</universitas>
+    </item>
+    <item>
+      <nrp>1872099</nrp>
+      <nama>Loran</nama>
+      <foto>1872099.jpeg</foto>
+      <prodi>Teknik Industri</prodi>
+      <fakultas>Teknik</fakultas>
+      <universitas>Universitas Parahyangan</universitas>
+    </item>
+  </channel>
+</rss>

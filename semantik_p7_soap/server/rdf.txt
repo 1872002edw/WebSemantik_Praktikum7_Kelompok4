@@ -1,0 +1,48 @@
+<http://www.praktikum.com/maranatha/1232010> <http://www.praktikum.com/maranatha#hasnama> "John Doe" .
+<http://www.praktikum.com/maranatha/1232010> <http://www.praktikum.com/maranatha#hasfoto> "1232010.jpg" .
+<http://www.praktikum.com/maranatha/1232010> <http://www.praktikum.com/maranatha#hasprodi> "Teknik " .
+<http://www.praktikum.com/maranatha/1232010> <http://www.praktikum.com/maranatha#hasfakultas> "Teknik Elektro" .
+<http://www.praktikum.com/maranatha/1232010> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Indonesia" .
+
+<http://www.praktikum.com/maranatha/170000> <http://www.praktikum.com/maranatha#hasnama> "Tes" .
+<http://www.praktikum.com/maranatha/170000> <http://www.praktikum.com/maranatha#hasfoto> "170000.jpg" .
+<http://www.praktikum.com/maranatha/170000> <http://www.praktikum.com/maranatha#hasprodi> "Kedokteran" .
+<http://www.praktikum.com/maranatha/170000> <http://www.praktikum.com/maranatha#hasfakultas> "Kedokteran" .
+<http://www.praktikum.com/maranatha/170000> <http://www.praktikum.com/maranatha#hasuniversitas> "Pajajaran" .
+
+<http://www.praktikum.com/maranatha/1872000> <http://www.praktikum.com/maranatha#hasnama> "Black Widow" .
+<http://www.praktikum.com/maranatha/1872000> <http://www.praktikum.com/maranatha#hasfoto> "1872000.jpg" .
+<http://www.praktikum.com/maranatha/1872000> <http://www.praktikum.com/maranatha#hasprodi> "Kedokteran" .
+<http://www.praktikum.com/maranatha/1872000> <http://www.praktikum.com/maranatha#hasfakultas> "Kedokteran" .
+<http://www.praktikum.com/maranatha/1872000> <http://www.praktikum.com/maranatha#hasuniversitas> "Pajajaran" .
+
+<http://www.praktikum.com/maranatha/1872002> <http://www.praktikum.com/maranatha#hasnama> "Edward" .
+<http://www.praktikum.com/maranatha/1872002> <http://www.praktikum.com/maranatha#hasfoto> "1872002.jpg" .
+<http://www.praktikum.com/maranatha/1872002> <http://www.praktikum.com/maranatha#hasprodi> "Teknik Informatika" .
+<http://www.praktikum.com/maranatha/1872002> <http://www.praktikum.com/maranatha#hasfakultas> "Teknologi Informasi" .
+<http://www.praktikum.com/maranatha/1872002> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Kristen Maranatha" .
+
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasnama> "Ryan" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasfoto> "1872019.jpg" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasprodi> "Teknik Informatika" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasfakultas> "Teknologi Informasi" .
+<http://www.praktikum.com/maranatha/1872019> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Parahyangan" .
+
+<http://www.praktikum.com/maranatha/1872027> <http://www.praktikum.com/maranatha#hasnama> "Anthony" .
+<http://www.praktikum.com/maranatha/1872027> <http://www.praktikum.com/maranatha#hasfoto> "1872027.jpg" .
+<http://www.praktikum.com/maranatha/1872027> <http://www.praktikum.com/maranatha#hasprodi> "Teknik Informatika" .
+<http://www.praktikum.com/maranatha/1872027> <http://www.praktikum.com/maranatha#hasfakultas> "Teknologi Informasi" .
+<http://www.praktikum.com/maranatha/1872027> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Kristen Maranatha" .
+
+<http://www.praktikum.com/maranatha/1872051> <http://www.praktikum.com/maranatha#hasnama> "Edwin" .
+<http://www.praktikum.com/maranatha/1872051> <http://www.praktikum.com/maranatha#hasfoto> "1872051.jpg" .
+<http://www.praktikum.com/maranatha/1872051> <http://www.praktikum.com/maranatha#hasprodi> "Teknik Informatika" .
+<http://www.praktikum.com/maranatha/1872051> <http://www.praktikum.com/maranatha#hasfakultas> "Teknologi Informasi" .
+<http://www.praktikum.com/maranatha/1872051> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Kristen Maranatha" .
+
+<http://www.praktikum.com/maranatha/1872099> <http://www.praktikum.com/maranatha#hasnama> "Loran" .
+<http://www.praktikum.com/maranatha/1872099> <http://www.praktikum.com/maranatha#hasfoto> "1872099.jpeg" .
+<http://www.praktikum.com/maranatha/1872099> <http://www.praktikum.com/maranatha#hasprodi> "Teknik Industri" .
+<http://www.praktikum.com/maranatha/1872099> <http://www.praktikum.com/maranatha#hasfakultas> "Teknik" .
+<http://www.praktikum.com/maranatha/1872099> <http://www.praktikum.com/maranatha#hasuniversitas> "Universitas Parahyangan" .
+
